@@ -4,16 +4,16 @@
 
 ### Desenvolvedor Web · Tecnologia · IA · Projetos Digitais
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Desenvolvendo+ideias+em+solu%C3%A7%C3%B5es+digitais;Web+Development+%7C+AI+%7C+Automation;Construindo%2C+aprendendo+e+evoluindo." alt="Typing SVG" />
+<img src="https://demolab.com." alt="Typing SVG" />
 
 <br>
 
-<a href="https://github.com/silvawillx">
-  <img src="https://img.shields.io/github/followers/silvawillx?label=Followers&style=for-the-badge&logo=github" />
+<a href="https://github.com">
+  <img src="https://shields.io" />
 </a>
 
-<a href="https://github.com/silvawillx?tab=repositories">
-  <img src="https://img.shields.io/badge/Projetos-Visitar-blue?style=for-the-badge&logo=github" />
+<a href="https://github.com?tab=repositories">
+  <img src="https://shields.io" />
 </a>
 
 </div>
@@ -22,31 +22,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Emerson William**, desenvolvedor e criador de projetos digitais.
+Sou **Emerson William**, desenvolvedor e criador de soluções digitais.
 
-Tenho interesse em transformar ideias em produtos e experiências digitais, unindo **desenvolvimento web, design, inteligência artificial e automação**.
+Tenho foco em transformar ideias em produtos reais e funcionais, unindo **desenvolvimento web, automação e inteligência artificial** (utilizando ferramentas avançadas como ChatGPT e Vibe Code no fluxo de engenharia de software).
 
-Gosto de trabalhar em projetos que envolvem desde a criação de interfaces e landing pages até soluções digitais completas, sempre buscando equilíbrio entre **funcionalidade, desempenho e experiência do usuário**.
-
-```text
-💻 Desenvolvimento Web
-🤖 Inteligência Artificial
-⚙️ Automação
-🎨 UI / UX
-📱 Experiências Responsivas
-🚀 Produtos Digitais
-```
-
----
-
-## 🧠 Atualmente
-
-* 🔭 Desenvolvendo e experimentando novos projetos web
-* 🌱 Aprimorando meus conhecimentos em **JavaScript**
-* 🤖 Explorando aplicações práticas de **IA**
-* ⚙️ Estudando automação e integração de ferramentas
-* 🎨 Criando interfaces com foco em experiência e usabilidade
-* 🚀 Transformando ideias em projetos reais
+Gosto de construir aplicações que resolvem problemas práticos, sempre buscando o equilíbrio entre **funcionalidade, desempenho e usabilidade**.
 
 ---
 
@@ -55,76 +35,35 @@ Gosto de trabalhar em projetos que envolvem desde a criação de interfaces e la
 ### Front-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev" />
 </p>
 
 ### Ferramentas & Tecnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev" />
 </p>
 
 ### Criatividade & IA
 
 <p>
-
-<img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" />
-
-<img src="https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logo=figma&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=zapier&logoColor=white" />
-
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
 </p>
 
 ---
 
-# 🚀 Projetos em destaque
+# 🚀 Projetos em Destaque
 
-<div align="center">
+* 📱 **Agiopay App** — Aplicação web para gerenciamento financeiro desenvolvida com auxílio de IA. 
+  * 🔗 [Acessar a Aplicação no Ar](https://agiopay-app.vercel.app/) · [Ver Código no GitHub](https://github.com/agiopay-app)
 
-<table>
-<tr>
+* 💰 **Meu Financeiro** — Sistema autoral completo criado para controle de finanças pessoais utilizando Vibe Code e ChatGPT.
+  * 🔗 [Ver Código no GitHub](https://github.com/meu-financeiro)
 
-<td width="50%">
-
-### 🌐 Projetos Web
-
-Desenvolvimento de interfaces, landing pages e experiências digitais responsivas.
-
-</td>
-
-<td width="50%">
-
-### 🤖 Projetos com IA
-
-Experimentos e soluções utilizando inteligência artificial para criação, automação e produtividade.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🎓 Educação
-
-Projetos digitais voltados para educação, aprendizagem e criação de ferramentas interativas.
-
-</td>
-
-<td width="50%">
-
-### 📈 Produtos Digitais
-
-Projetos que combinam tecnologia, design e estratégias digitais para criar experiências e soluções.
-
-</td>
-
-</tr>
-</table>
-
-</div>
+* 🌐 **Portfólio Profissional** — Página principal apresentando minhas competências e histórico de projetos.
+  * 🔗 [Ver Código no GitHub](https://github.com/portfolio-emerson)
 
 ---
 
@@ -132,9 +71,9 @@ Projetos que combinam tecnologia, design e estratégias digitais para criar expe
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvawillx&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://vercel.app"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvawillx&layout=compact&hide_border=true&theme=transparent&langs_count=8"/>
+<img height="180em" src="https://vercel.app"/>
 
 </div>
 
@@ -142,27 +81,9 @@ Projetos que combinam tecnologia, design e estratégias digitais para criar expe
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=silvawillx&theme=transparent&hide_border=true" />
+<img src="https://demolab.com" />
 
 </div>
-
----
-
-# 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=silvawillx&theme=github-compact&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# 🎯 Objetivo
-
-> **Construir soluções digitais que transformem ideias em experiências simples, úteis e eficientes.**
-
-Estou constantemente buscando aprender novas tecnologias, experimentar novas ideias e transformar conhecimento em **projetos reais**.
 
 ---
 
@@ -170,26 +91,11 @@ Estou constantemente buscando aprender novas tecnologias, experimentar novas ide
 
 <div align="center">
 
-<a href="https://github.com/silvawillx">
-<img src="https://img.shields.io/badge/GitHub-silvawillx-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com">
+<img src="https://shields.io" />
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Obrigado por visitar meu perfil! 👋
-
-⭐ Explore meus repositórios e acompanhe meus projetos.
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=silvawillx&style=flat-square&color=blue" alt="Profile views" />
+<a href="https://linkedin.com" target="_blank">
+<img src="https://shields.io" />
+</a>
 
 </div>
